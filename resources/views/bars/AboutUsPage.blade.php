@@ -9,7 +9,7 @@
 </head>
 <body>
     <style>
-        /* General hi Styles */
+        /* General hiStyles */
 body {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.6;
